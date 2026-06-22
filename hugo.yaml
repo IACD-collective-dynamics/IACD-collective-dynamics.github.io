@@ -15,26 +15,29 @@ module:
 
 menu:
   main:
+    - name: TGF28
+      pageRef: /tgf28
+      weight: 1
     - name: Board
       pageRef: /board
-      weight: 1
+      weight: 2
     - name: Founding Members
       pageRef: /founding-members
-      weight: 2
+      weight: 3
     - name: Membership
       pageRef: /membership
-      weight: 3
+      weight: 4
     - name: FAQ
       pageRef: /faq
-      weight: 4
+      weight: 5
     - name: Documents
       pageRef: /documents
-      weight: 5
+      weight: 6
     - name: About
       pageRef: /about
-      weight: 6
-    - name: Search
       weight: 7
+    - name: Search
+      weight: 8
       params:
         type: search
 
