@@ -35,4 +35,4 @@ quality of the conferences it grew from.
 ## Get involved
 
 Membership is open to anyone who supports these aims. More details — membership and
-how to join — will follow soon. See the [FAQ](faq).
+how to join — will follow soon. See the [FAQ]({{< relref "faq" >}}).

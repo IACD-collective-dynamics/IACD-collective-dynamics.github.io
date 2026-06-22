@@ -33,7 +33,7 @@ The association acts selflessly and pursues exclusively non-profit purposes.
 
 The IACD has three bodies: the **General Assembly** (all members), the
 **Executive Board**, and the **Steering Committee** (scientific advisory body).
-See [Board & Auditors](board) and the [FAQ](faq) for details.
+See [Board & Auditors]({{< relref "board" >}}) and the [FAQ]({{< relref "faq" >}}) for details.
 
 ## Documents
 
@@ -43,4 +43,4 @@ code of conduct — will be published here.
 
 ## Contact
 
-info@collectivedynamics.org *(email setup in progress)*
+[info@collectivedynamics.org](mailto:info@collectivedynamics.org)
