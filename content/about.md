@@ -1,6 +1,8 @@
 ---
 title: About
 weight: 4
+aliases:
+  - /founding-members/
 ---
 
 ## About the IACD
@@ -29,6 +31,19 @@ cooperation and good scientific practice, publishing scientific results, and
 backing young researchers.
 
 The association acts selflessly and pursues exclusively non-profit purposes.
+
+## Founding members
+
+The IACD was founded on 18 June 2026 during the steering committee meeting at TGF26
+in Bristol, by:
+
+Cécile Appert-Rolland · Nikolai Bode · Thomas Chatagnon · Tao Chen · Mohcine Chraibi ·
+Alessandro Corbetta · Iñaki Echeverría Huarte · Claudio Feliciani · Zhijian Fu ·
+Ángel Garcimartín · Pavel Hrabák · Angelika Kneidl · Gerta Köster · Jian Ma ·
+Alexandre Nicolas · Andreas Schadschneider · Armin Seyfried · Antoine Tordeux ·
+Chuanzhi (Thomas) Xie · Francesco Maria Zanlungo · Jun Zhang · Iker Zuriguel.
+
+*(22 founding members, listed alphabetically by surname.)*
 
 ## Governance
 
