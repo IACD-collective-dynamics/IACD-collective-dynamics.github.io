@@ -3,17 +3,12 @@ title: International Association for Collective Dynamics
 toc: false
 ---
 
-{{< hextra/hero-headline >}}
-International Association for Collective Dynamics
-{{< /hextra/hero-headline >}}
-
-{{< hextra/hero-subtitle >}}
 A non-profit association (e.V.) registered in Germany, supporting the science of
 collective dynamics and the PED and TGF conferences.
-{{< /hextra/hero-subtitle >}}
 
 {{< hextra/hero-button text="Learn more" link="about" >}}
 
+<br />
 <br />
 
 ## Mission
