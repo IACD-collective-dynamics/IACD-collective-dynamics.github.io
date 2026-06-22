@@ -34,11 +34,6 @@ menu:
       weight: 6
       params:
         type: search
-    - name: GitHub
-      weight: 7
-      url: "https://github.com/IACD-collective-dynamics"
-      params:
-        icon: github
 
 params:
   navbar:
