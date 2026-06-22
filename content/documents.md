@@ -21,4 +21,5 @@ interpretation, the **German version prevails** (§13).
 
 ---
 
-*These are the current versions. The association was registered in Germany in 2026.*
+*These are the current versions. The association was founded in 2026; registration as
+an eingetragener Verein (e.V.) is in progress.*

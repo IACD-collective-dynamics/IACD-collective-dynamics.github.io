@@ -3,7 +3,15 @@ title: Membership
 weight: 3
 ---
 
-Membership is open to anyone who supports the aims of the association —
+{{< callout type="info" >}}
+**Membership is not open yet.** The association is currently being established and
+its registration is in progress. Membership will open once registration is complete
+and the first General Assembly has adopted the fee schedule. The details below are
+the **planned** structure. To be notified when membership opens, write to
+[info@collectivedynamics.org](mailto:info@collectivedynamics.org).
+{{< /callout >}}
+
+Membership will be open to anyone who supports the aims of the association —
 researchers, practitioners, and students across all regions and disciplines.
 International participation is intended by design.
 
@@ -23,7 +31,8 @@ Any individual who supports the association's aims (Statutes §4). Membership is
 
 ## Fees
 
-*Proposed structure, pending approval by the General Assembly.*
+*Planned structure — to be confirmed by the General Assembly once the association is
+registered.*
 
 | Who | Fee |
 |-----|-----|
@@ -36,14 +45,16 @@ Any individual who supports the association's aims (Statutes §4). Membership is
 - If you register for a **PED or TGF conference**, membership is **free** — just
   tick "become a member" on the registration form.
 
-## How to join
+## How it will work
+
+Once membership opens, there will be two ways to join:
 
 1. **At a conference** — tick the membership option when you register for PED or TGF.
-2. **Any time** — write to **[info@collectivedynamics.org](mailto:info@collectivedynamics.org)**
-   with your name and affiliation, and the Executive Board will process your
-   admission.
+2. **Any time** — a short online sign-up, or by writing to the Executive Board.
 
-A short online sign-up form will follow once the membership system is live.
+**For now**, if you'd like to join when membership opens, register your interest by
+writing to **[info@collectivedynamics.org](mailto:info@collectivedynamics.org)** with
+your name and affiliation, and we'll get in touch.
 
 ## Questions?
 

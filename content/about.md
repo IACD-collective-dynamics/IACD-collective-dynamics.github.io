@@ -6,9 +6,10 @@ weight: 4
 ## About the IACD
 
 The **International Association for Collective Dynamics (IACD)** is a non-profit
-association (eingetragener Verein, e.V.) registered in Germany. It was founded on
-18 June 2026 during the steering committee meeting at the TGF26 conference in
-Bristol.
+scientific association. It was founded on 18 June 2026 during the steering committee
+meeting at the TGF26 conference in Bristol. It is currently being established as a
+German non-profit association (*Verein in Gründung, i. G.*); registration as an
+*eingetragener Verein* (e.V.) is in progress, with its seat in Düren.
 
 The association gives the international community studying collective dynamics —
 pedestrian and evacuation dynamics, crowd science, traffic and granular flow, and
