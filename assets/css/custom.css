@@ -66,6 +66,28 @@ main h1.hx-text-center { text-align: left !important; }
 .dark .iacd-ghost { background: transparent; color:#f2f2f2; }
 .iacd-ghost:hover { border-color: var(--iacd-red); color: var(--iacd-red); }
 
+/* Home: "next conference" feature band */
+.iacd-next-wrap { border-top: 1px solid var(--iacd-line); }
+.iacd-next {
+  display: flex; align-items: center; justify-content: space-between; gap: 24px;
+  max-width: 1080px; margin: 0 auto; padding: 28px 24px;
+  text-decoration: none; color: inherit; flex-wrap: wrap;
+}
+.iacd-next:hover .iacd-next-cta { color: var(--iacd-red); }
+.iacd-next:hover h2 { color: var(--iacd-red); }
+.iacd-next .iacd-label { display: flex; align-items: center; gap: 9px; margin: 0 0 8px; }
+.iacd-next h2 {
+  font-family: var(--iacd-display); font-weight: 700; font-size: clamp(20px, 2.4vw, 28px);
+  letter-spacing: -0.02em; margin: 0; color: var(--iacd-ink); transition: color .12s ease;
+}
+.dark .iacd-next h2 { color: #f2f2f2; }
+.iacd-next-meta { margin: 8px 0 0; color: var(--iacd-muted); font-size: 15px; }
+.iacd-next-cta {
+  font-family: var(--iacd-display); font-weight: 500; font-size: 16px; white-space: nowrap;
+  color: var(--iacd-ink); transition: color .12s ease;
+}
+.dark .iacd-next-cta { color: #f2f2f2; }
+
 .iacd-sec { padding: 56px 0; border-top: 1px solid var(--iacd-line); }
 .iacd-label {
   font-family: var(--iacd-display); font-weight: 500; font-size: 12.5px; letter-spacing: 0.16em;
