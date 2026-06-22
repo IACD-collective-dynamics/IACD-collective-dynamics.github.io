@@ -58,7 +58,7 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
-      - name: Deploy pedestriandynamics.org
+      - name: Deploy collectivedynamics.org
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: ./public/
