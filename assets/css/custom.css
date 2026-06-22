@@ -29,6 +29,9 @@ code, kbd, samp, pre, pre * { font-family: ui-monospace, SFMono-Regular, Menlo, 
 :root { --navbar-height: 5rem; }
 .nav-container a img { height: 52px !important; width: auto !important; max-width: none !important; }
 
+/* #3 — Left-align inner-page titles to match the editorial home (no centered titles) */
+main h1.hx-text-center { text-align: left !important; }
+
 /* ---- Landing page ---- */
 .iacd-home { font-family: var(--iacd-body); }
 .iacd-wrap { max-width: 1080px; margin: 0 auto; padding: 0 24px; }
