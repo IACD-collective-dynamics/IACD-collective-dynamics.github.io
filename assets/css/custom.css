@@ -10,8 +10,24 @@
 }
 .dark { --iacd-muted:#9a9a9a; --iacd-line:#262626; }
 
-/* Larger navbar logo (wordmark needs the room) */
-.nav-container a img { height: 44px !important; width: auto !important; max-width: none !important; }
+/* #1 — Brand the whole site, not just the landing.
+   Map Hextra's primary (links, accents) to the brand red #F0321E ≈ hsl(9,88%,53%). */
+:root, .dark {
+  --primary-hue: 9deg;
+  --primary-saturation: 88%;
+  --primary-lightness: 53%;
+}
+
+/* Brand typography site-wide: Inter body, Space Grotesk headings. */
+body { font-family: var(--iacd-body) !important; }
+h1, h2, h3, h4, h5, h6,
+.hextra-toc, .nav-container { font-family: var(--iacd-display) !important; }
+/* keep code/monospace untouched */
+code, kbd, samp, pre, pre * { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace !important; }
+
+/* #2 — Larger, legible navbar logo (the wordmark needs the room) */
+:root { --navbar-height: 5rem; }
+.nav-container a img { height: 52px !important; width: auto !important; max-width: none !important; }
 
 /* ---- Landing page ---- */
 .iacd-home { font-family: var(--iacd-body); }
