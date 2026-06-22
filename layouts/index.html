@@ -1,0 +1,50 @@
+{{ define "main" }}
+<div class="iacd-home">
+  <section class="iacd-hero">
+    <div class="iacd-wrap">
+      <p class="iacd-eyebrow"><span class="iacd-dot"></span> Non-profit association · registered in Germany · founded 2026</p>
+      <h1 class="iacd-head">International Association<br />for Collective Dynamics<span class="iacd-red">.</span></h1>
+      <p class="iacd-lede">A lasting home for the international community studying collective dynamics — and the conferences it grew from, PED and TGF.</p>
+      <div class="iacd-cta">
+        <a class="iacd-btn" href="{{ "faq/" | relURL }}">Become a member</a>
+        <a class="iacd-btn iacd-ghost" href="#mission">Read the mission</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="iacd-sec" id="mission">
+    <div class="iacd-wrap">
+      <p class="iacd-label">Mission</p>
+      <div class="iacd-mission">
+        <h2>Open by design.</h2>
+        <div>
+          <p>Our field was never built by one kind of person, or one country. Physicists, engineers, mathematicians, computer scientists and psychologists, working on the same crowds. The conferences worked because nobody owned them and everyone was welcome.</p>
+          <p>The IACD exists to keep that community open and together — across countries, disciplines and career stages — and to safeguard the continuity and quality of the science it grew from. A field that closes in on itself stops surprising itself.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="iacd-sec" id="work">
+    <div class="iacd-wrap">
+      <p class="iacd-label">What we do</p>
+      <div class="iacd-pillars">
+        <div class="iacd-pillar"><div class="iacd-n">01</div><div><h3>Convene</h3><p>Organise and support the PED and TGF conferences, workshops and symposia under one international umbrella.</p></div></div>
+        <div class="iacd-pillar"><div class="iacd-n">02</div><div><h3>Sustain</h3><p>Provide the legal and organisational continuity these conferences need from one edition to the next.</p></div></div>
+        <div class="iacd-pillar"><div class="iacd-n">03</div><div><h3>Connect</h3><p>Foster interdisciplinary, international collaboration and good scientific practice.</p></div></div>
+        <div class="iacd-pillar"><div class="iacd-n">04</div><div><h3>Support</h3><p>Back early-career researchers and the open exchange of ideas.</p></div></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="iacd-join" id="join">
+    <div class="iacd-wrap iacd-join-row">
+      <div>
+        <h2>Keep the door open<span class="iacd-red">.</span> Join the IACD.</h2>
+        <p>Membership is open to anyone who supports these aims. Free for the year you attend PED or TGF.</p>
+      </div>
+      <a class="iacd-btn iacd-btn-light" href="{{ "faq/" | relURL }}">Become a member</a>
+    </div>
+  </section>
+</div>
+{{ end }}

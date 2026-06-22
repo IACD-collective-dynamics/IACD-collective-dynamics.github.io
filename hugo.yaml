@@ -42,12 +42,12 @@ menu:
 
 params:
   navbar:
-    displayTitle: true
+    displayTitle: false
     displayLogo: true
     logo:
       path: images/logo.png
-      width: 120
-      height: 60
+      width: 184
+      height: 92
 
   page:
     width: wide
