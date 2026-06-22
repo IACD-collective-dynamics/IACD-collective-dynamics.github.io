@@ -24,15 +24,18 @@ menu:
     - name: FAQ
       pageRef: /faq
       weight: 3
+    - name: Documents
+      pageRef: /documents
+      weight: 4
     - name: About
       pageRef: /about
-      weight: 4
-    - name: Search
       weight: 5
+    - name: Search
+      weight: 6
       params:
         type: search
     - name: GitHub
-      weight: 6
+      weight: 7
       url: "https://github.com/IACD-collective-dynamics"
       params:
         icon: github
