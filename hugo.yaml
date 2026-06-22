@@ -15,9 +15,6 @@ module:
 
 menu:
   main:
-    - name: TGF28
-      pageRef: /tgf28
-      weight: 1
     - name: Board
       pageRef: /board
       weight: 2
