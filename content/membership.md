@@ -8,7 +8,7 @@ weight: 3
 its registration is in progress. Membership will open once registration is complete
 and the first General Assembly has adopted the fee schedule. The details below are
 the **planned** structure. To be notified when membership opens, write to
-[info@collectivedynamics.org](mailto:info@collectivedynamics.org).
+[board@collectivedynamics.org](mailto:board@collectivedynamics.org).
 {{< /callout >}}
 
 Membership will be open to anyone who supports the aims of the association —
@@ -53,7 +53,7 @@ Once membership opens, there will be two ways to join:
 2. **Any time** — a short online sign-up, or by writing to the Executive Board.
 
 **For now**, if you'd like to join when membership opens, register your interest by
-writing to **[info@collectivedynamics.org](mailto:info@collectivedynamics.org)** with
+writing to **[board@collectivedynamics.org](mailto:board@collectivedynamics.org)** with
 your name and affiliation, and we'll get in touch.
 
 ## Questions?
