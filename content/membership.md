@@ -43,14 +43,14 @@ registered.*
 | Tier | Fee | Member benefit |
 |------|-----|----------------|
 | **Standard** | €50 / year — or €90 / 2 years | **5% off** PED/TGF conference registration |
-| **Sustaining / Founding** | €200 / 5 years | 5% off, plus founding-member status |
+| **Sustaining** | €200 / 5 years | **10% off** PED/TGF registration (double the standard rate) |
 | **Student & early-career** | €10 / year | 5% off PED/TGF registration (same as all members) |
 
 - All tiers are **full voting members**.
 - Your membership runs **from the day you join**, not the calendar year.
-- The **Sustaining / Founding** tier is for supporters who want to back the
-  association for the long term — it helps build the reserves that let IACD support
-  the conferences directly.
+- The **Sustaining** tier is for supporters who want to back the association for the
+  long term — it helps build the reserves that let IACD support the conferences
+  directly.
 
 ## How it will work
 
