@@ -44,7 +44,7 @@ registered.*
 |------|-----|----------------|
 | **Standard** | €50 / year — or €90 / 2 years | **5% off** PED/TGF conference registration |
 | **Sustaining / Founding** | €200 / 5 years | 5% off, plus founding-member status |
-| **Student & early-career** | €10 / year | conference fee reimbursed when you attend (≈ free) |
+| **Student & early-career** | €10 / year | the €10 is reimbursed when you register for a conference (≈ free) |
 
 - All tiers are **full voting members**.
 - Your membership runs **from the day you join**, not the calendar year.
