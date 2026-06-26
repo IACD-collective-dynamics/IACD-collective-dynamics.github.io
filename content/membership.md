@@ -44,7 +44,7 @@ registered.*
 |------|-----|----------------|
 | **Standard** | €50 / year — or €90 / 2 years | **5% off** PED/TGF conference registration |
 | **Sustaining / Founding** | €200 / 5 years | 5% off, plus founding-member status |
-| **Student & early-career** | €10 / year | the €10 is reimbursed when you register for a conference (≈ free) |
+| **Student & early-career** | €10 / year | 5% off PED/TGF registration (same as all members) |
 
 - All tiers are **full voting members**.
 - Your membership runs **from the day you join**, not the calendar year.
@@ -54,11 +54,7 @@ registered.*
 
 ## How it will work
 
-The member benefit is a **discount that IACD pays toward your conference
-registration** — money flowing from the association *into* the conference, not the
-other way round. You pay the member rate when you register, and IACD covers the
-difference with the organisers. As the association grows, this contribution can grow
-with it.
+The member benefit is a **discount on your PED/TGF conference registration**.
 
 Once membership opens, there will be two ways to join:
 
