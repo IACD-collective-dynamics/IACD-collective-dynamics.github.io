@@ -43,7 +43,7 @@ registered.*
 | Tier | Fee | Member benefit |
 |------|-----|----------------|
 | **Standard** | €50 / year — or €90 / 2 years | **5% off** PED/TGF conference registration |
-| **Sustaining** | €200 / 5 years | **10% off** PED/TGF registration (double the standard rate) |
+| **Sustaining** | €200 / 5 years | **10% off** PED/TGF registration, up to €40 (double the standard rate) |
 | **Student & early-career** | €10 / year | 5% off PED/TGF registration (same as all members) |
 
 - All tiers are **full voting members**.
