@@ -1,0 +1,14 @@
+{{- /* Spam-safe email link. Address is split into data-* attributes and
+       assembled client-side (see partials/custom/head-end.html), so the raw
+       HTML never contains a harvestable address or a mailto: href.
+       Usage: {{< email "info@collectivedynamics.org" >}} or {{< email "addr" "label" >}} */ -}}
+{{- $addr := .Get 0 -}}
+{{- $parts := split $addr "@" -}}
+{{- $u := index $parts 0 -}}
+{{- $d := index $parts 1 -}}
+{{- $label := .Get 1 -}}
+{{- if $label -}}
+<a class="eml" href="#" data-u="{{ $u }}" data-d="{{ $d }}" rel="nofollow">{{ $label }}</a>
+{{- else -}}
+<a class="eml" href="#" data-u="{{ $u }}" data-d="{{ $d }}" rel="nofollow">{{ $u }}<span class="eml-at"> [at] </span>{{ $d }}</a>
+{{- end -}}

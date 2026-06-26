@@ -31,4 +31,4 @@ IACD, which provides the conference's long-term organisational continuity.
 
 More details — programme, registration, and key dates — will follow. To stay
 informed, watch [collective-dynamics.eu](https://collective-dynamics.eu/index.php/cod/tgf)
-or write to [info@collectivedynamics.org](mailto:info@collectivedynamics.org).
+or write to {{< email "info@collectivedynamics.org" >}}.

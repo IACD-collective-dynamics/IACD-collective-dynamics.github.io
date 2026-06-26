@@ -59,4 +59,4 @@ code of conduct — will be published here.
 
 ## Contact
 
-[info@collectivedynamics.org](mailto:info@collectivedynamics.org)
+{{< email "info@collectivedynamics.org" >}}
