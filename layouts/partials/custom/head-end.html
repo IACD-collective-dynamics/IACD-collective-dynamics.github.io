@@ -2,14 +2,13 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
 <script>
-  // Assemble spam-safe email links (class="eml") from their data-* parts.
+  // Assemble spam-safe email links (class="eml") from their encoded data-e part.
   document.addEventListener("DOMContentLoaded", function () {
-    document.querySelectorAll("a.eml[data-u][data-d]").forEach(function (a) {
-      var addr = a.getAttribute("data-u") + "@" + a.getAttribute("data-d");
+    document.querySelectorAll("a.eml[data-e]").forEach(function (a) {
+      var addr = atob(a.getAttribute("data-e"));
       a.href = "mailto:" + addr;
       if (a.querySelector(".eml-at")) a.textContent = addr;
-      a.removeAttribute("data-u");
-      a.removeAttribute("data-d");
+      a.removeAttribute("data-e");
     });
   });
 </script>
