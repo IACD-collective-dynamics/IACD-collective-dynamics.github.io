@@ -7,7 +7,6 @@
     document.querySelectorAll("a.eml[data-e]").forEach(function (a) {
       var addr = atob(a.getAttribute("data-e"));
       a.href = "mailto:" + addr;
-      if (a.querySelector(".eml-at")) a.textContent = addr;
       a.removeAttribute("data-e");
     });
   });
