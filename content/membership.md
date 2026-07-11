@@ -40,26 +40,34 @@ Any individual who supports the association's aims (Statutes §4). Membership is
 *Draft structure — to be confirmed by the General Assembly once the association is
 registered.*
 
-| Tier | Fee | Member benefit |
-|------|-----|----------------|
-| **Standard** | €50 / year — or €90 / 2 years | **5% off** PED/TGF conference registration |
-| **Sustaining** | €200 / 5 years | **10% off** PED/TGF registration, up to €40 (double the standard rate) |
-| **Student & early-career** | €10 / year | 5% off PED/TGF registration (same as all members) |
+| Category | 1 year | 2 years | 5 years |
+|----------|--------|---------|---------|
+| **Regular** | €50 | €90 | €200 |
+| **Student & early-career** | €20 | €36 | €80 |
 
-- All tiers are **full voting members**.
+- All members are **full voting members**.
 - Your membership runs **from the day you join**, not the calendar year.
-- The **Sustaining** tier is for supporters who want to back the association for the
-  long term — it helps build the reserves that let IACD support the conferences
-  directly.
+- Paying **2 or 5 years upfront is discounted** — the 5-year rate is four years'
+  fee, with one year free. Paying upfront also helps build the reserves that let
+  IACD support the conferences directly.
+
+### Conference discount
+
+Membership is, above all, a way to belong to and support the community. As a member
+you may also receive a discount on **PED/TGF conference registration**:
+
+- **PED27:** no discount (first edition; the budget is already fixed).
+- **From TGF28 onward:** a discount of **up to 5%** may apply, agreed with each
+  conference's organizers and announced per event.
 
 ## How it will work
 
-The member benefit is a **discount on your PED/TGF conference registration**.
+Membership is **not** a conference fee — it is a way to support the community, with
+a possible conference discount as a secondary benefit (see above).
 
-Once membership opens, there will be two ways to join:
-
-1. **At a conference** — tick the membership option when you register for PED or TGF.
-2. **Any time** — a short online sign-up, or by writing to the Executive Board.
+Once membership opens, you will be able to sign up and pay online by card, choosing
+a 1-, 2-, or 5-year term. Fees are collected once the association is registered and
+its bank account is set up.
 
 **For now**, if you'd like to join when membership opens, register your interest by
 writing to **{{< email "board@collectivedynamics.org" >}}** with

@@ -27,10 +27,8 @@ are voting members by default**.
   - stand for election to the Executive Board and other elected bodies,
   - receive all member benefits.
 
-- **Reduced-fee members** (e.g. students and early-career researchers) — the
-  statutes allow a reduced-fee category, kept as **voting members** with the same
-  rights. A reduced rate **may be introduced later**; for now a single flat fee
-  applies to everyone (see fees below).
+- **Reduced-fee members** (students and early-career researchers) — a reduced rate
+  applies (see fees), kept as **voting members** with the same rights.
 
 - **Non-voting members** — admitted by the Executive Board where participation is
   mainly for scientific exchange, advisory involvement, or support, without taking
@@ -48,15 +46,20 @@ This is a formality for record-keeping, not a second admission.
 
 ## Are there membership fees?
 Fees are set by the **General Assembly** in a fee schedule (§4a). The proposed
-starting fee — **pending approval by the General Assembly** — is:
+schedule — **pending approval by the General Assembly** — is:
 
-- **€50 per year**, the same flat amount for everyone (no reduced rate for now),
-- a **one-year (calendar-year)** membership term,
-- the fee **waived for any year in which you attend a PED or TGF conference** — so
-  if you come to the conference, membership is effectively free; you just opt in.
+| Category | 1 year | 2 years | 5 years |
+|----------|--------|---------|---------|
+| Regular | €50 | €90 | €200 |
+| Student & early-career | €20 | €36 | €80 |
 
-Non-attendees pay the €50 to join. The board may also reduce or waive fees on
-justified request (§4a). Final amounts will be confirmed by the General Assembly.
+- Membership runs **from the day you join**.
+- Paying **2 or 5 years upfront is discounted** (the 5-year rate is four years' fee).
+- Members may receive a discount on PED/TGF registration — **none at PED27**, and
+  **up to 5% from TGF28 onward**, agreed per conference.
+
+The board may also reduce or waive fees on justified request (§4a). Final amounts
+will be confirmed by the General Assembly.
 
 ## What is expected of me as a member?
 Support the association's aims, follow the Code of Conduct, and pay dues once set.
