@@ -13,7 +13,7 @@ The next **Traffic and Granular Flow (TGF)** conference will be held in
 | **Conference** | TGF28 — Traffic and Granular Flow |
 | **Location** | Wuppertal, Germany — University of Wuppertal |
 | **Hosted by** | Antoine Tordeux (Wuppertal), Armin Seyfried (Wuppertal, Jülich), Mohcine Chraibi (Jülich), Anna Sieben (Wuppertal, Jülich), Andreas Schadschneider (Cologne) |
-| **Organisers** | Juliane Adrian (Jülich), Ezel Üsten (Jülich), Basma Khelfa (Wuppertal) |
+| **Organisers** | Juliane Adrian (Jülich), Ezel Üsten (Jülich), Basma Khelfa (Wuppertal), Maik Boltes (Jülich) |
 | **Dates** | 6–9 June 2028 |
 | **Under the umbrella of** | International Association for Collective Dynamics (IACD) |
 
