@@ -56,7 +56,7 @@ schedule — **pending approval by the General Assembly** — is:
 - Membership runs **from the day you join**.
 - Paying **2 or 5 years upfront is discounted** (the 5-year rate is four years' fee).
 - Members may receive a discount on PED/TGF registration — **none at PED27**, and
-  **up to 5% from TGF28 onward**, agreed per conference.
+  a discount of **up to ~5% from TGF28 onward**, agreed per conference.
 
 The board may also reduce or waive fees on justified request (§4a). Final amounts
 will be confirmed by the General Assembly.

@@ -51,19 +51,26 @@ registered.*
   fee, with one year free. Paying upfront also helps build the reserves that let
   IACD support the conferences directly.
 
-### Conference discount
+## Benefits of membership
 
-Membership is, above all, a way to belong to and support the community. As a member
-you may also receive a discount on **PED/TGF conference registration**:
+Membership is, above all, a way to belong to and support the community. As the
+association grows, being a member is intended to offer:
 
-- **PED27:** no discount (first edition; the budget is already fixed).
-- **From TGF28 onward:** a discount of **up to 5%** may apply, agreed with each
-  conference's organizers and announced per event.
+- **Discounts on future conferences.** We aim to secure a member discount on
+  **PED/TGF registration** — **none at PED27** (its budget is already fixed), but a
+  discount of **up to ~5% from TGF28 onward**, agreed with each conference's
+  organizers and announced per event.
+- **Support for colleagues in need.** In urgent situations, the association may
+  help members who cannot afford conference or membership fees. This is
+  discretionary and exceptional — the board may reduce or waive fees on justified
+  request (Statutes §4a) — not a guaranteed entitlement.
+- **A wider network.** Membership connects you with researchers and practitioners
+  across regions and disciplines working on pedestrian and traffic dynamics.
 
 ## How it will work
 
 Membership is **not** a conference fee — it is a way to support the community, with
-a possible conference discount as a secondary benefit (see above).
+the benefits above as secondary.
 
 Once membership opens, you will be able to sign up and pay online by card, choosing
 a 1-, 2-, or 5-year term. Fees are collected once the association is registered and
