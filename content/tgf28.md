@@ -13,11 +13,11 @@ The next **Traffic and Granular Flow (TGF)** conference will be held in
 | **Conference** | TGF28 — Traffic and Granular Flow |
 | **Location** | Wuppertal, Germany — University of Wuppertal |
 | **Host** | Antoine Tordeux |
-| **Dates** | To be announced |
+| **Dates** | 6–9 June 2028 |
 | **Under the umbrella of** | International Association for Collective Dynamics (IACD) |
 
 {{< callout type="info" >}}
-**Dates and the conference website will be announced soon.** Details will appear at
+**The conference website will be announced soon.** Details will appear at
 [collective-dynamics.eu/index.php/cod/tgf](https://collective-dynamics.eu/index.php/cod/tgf).
 {{< /callout >}}
 
