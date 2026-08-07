@@ -21,5 +21,6 @@ interpretation, the **German version prevails** (§13).
 
 ---
 
-*These are the current versions. The association was founded in 2026; registration as
-an eingetragener Verein (e.V.) is in progress.*
+*These are the current versions. The association was founded on 18 June 2026 and is
+registered as an eingetragener Verein (e.V.) in the Vereinsregister of the Amtsgericht
+Düren under VR 3143 since 29 July 2026.*

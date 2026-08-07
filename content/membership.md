@@ -10,9 +10,9 @@ Assembly, and the figures (fees, discount %) may change. Do not treat it as fina
 {{< /callout >}}
 
 {{< callout type="info" >}}
-**Membership is not open yet.** The association is currently being established and
-its registration is in progress. Membership will open once registration is complete
-and the first General Assembly has adopted the fee schedule. The details below are
+**Membership is not open yet.** The association is now registered as an e.V.
+(Amtsgericht Düren, VR 3143). Membership will open once the first General Assembly
+has adopted the fee schedule. The details below are
 the **planned** structure. To be notified when membership opens, write to
 {{< email "board@collectivedynamics.org" >}}.
 {{< /callout >}}
