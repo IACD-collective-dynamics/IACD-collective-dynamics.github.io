@@ -60,3 +60,7 @@ code of conduct — will be published here.
 ## Contact
 
 {{< email "info@collectivedynamics.org" >}}
+
+## Credits
+
+The IACD logo was designed by Panar Ege Uesten.
