@@ -40,7 +40,8 @@ params:
     displayTitle: false
     displayLogo: true
     logo:
-      path: images/logo.png
+      path: images/IACD_Logo_Black.svg
+      dark: images/IACD_Logo_White.svg
       width: 184
       height: 92
 
