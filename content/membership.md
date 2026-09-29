@@ -40,16 +40,18 @@ Any individual who supports the association's aims (Statutes §4). Membership is
 *Draft structure — to be confirmed by the General Assembly once the association is
 registered.*
 
-| Category | 1 year | 2 years | 5 years |
-|----------|--------|---------|---------|
-| **Regular** | €50 | €90 | €200 |
-| **Student & early-career** | €20 | €36 | €80 |
+| Category | 1 year | 2 years | 3 years | 5 years |
+|----------|--------|---------|---------|---------|
+| **Regular** | €50 | €90 | — | €200 |
+| **Student & early-career** | €10 | — | €30 | — |
 
 - All members are **full voting members**.
 - Your membership runs **from the day you join**, not the calendar year.
-- Paying **2 or 5 years upfront is discounted** — the 5-year rate is four years'
-  fee, with one year free. Paying upfront also helps build the reserves that let
-  IACD support the conferences directly.
+- Regular members paying **2 or 5 years upfront get a discount** — the 5-year rate
+  is four years' fee, with one year free. Paying upfront also helps build the
+  reserves that let IACD support the conferences directly.
+- Students and early-career members can pay for **1 or 3 years**; 3 years covers a
+  typical PhD.
 
 ## Benefits of membership
 
@@ -73,8 +75,8 @@ Membership is **not** a conference fee — it is a way to support the community,
 the benefits above as secondary.
 
 Once membership opens, you will be able to sign up and pay online by card, choosing
-a 1-, 2-, or 5-year term. Fees are collected once the association is registered and
-its bank account is set up.
+a 1-, 2-, or 5-year term (students and early-career: 1 or 3 years). Fees are
+collected once the association is registered and its bank account is set up.
 
 **For now**, if you'd like to join when membership opens, register your interest by
 writing to **{{< email "board@collectivedynamics.org" >}}** with
