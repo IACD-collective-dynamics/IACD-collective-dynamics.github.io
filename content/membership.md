@@ -17,14 +17,14 @@ the **planned** structure. To be notified when membership opens, write to
 {{< email "board@collectivedynamics.org" >}}.
 {{< /callout >}}
 
-Membership will be open to anyone who supports the aims of the association —
+Membership will be open to anyone who supports the aims of the association:
 researchers, practitioners, and students across all regions and disciplines.
 International participation is intended by design.
 
 ## Who can join
 
 Any individual who supports the association's aims (Statutes §4). Membership is for
-**individuals** — there is no corporate or institutional membership.
+**individuals**. There is no corporate or institutional membership.
 
 ## Membership types
 
@@ -37,7 +37,7 @@ Any individual who supports the association's aims (Statutes §4). Membership is
 
 ## Fees
 
-*Draft structure — to be confirmed by the General Assembly once the association is
+*Draft structure, to be confirmed by the General Assembly once the association is
 registered.*
 
 | Category | 1 year | 2 years | 3 years | 5 years |
@@ -47,7 +47,7 @@ registered.*
 
 - All members are **full voting members**.
 - Your membership runs **from the day you join**, not the calendar year.
-- Regular members paying **2 or 5 years upfront get a discount** — the 5-year rate
+- Regular members paying **2 or 5 years upfront get a discount**: the 5-year rate
   is four years' fee, with one year free. Paying upfront also helps build the
   reserves that let IACD support the conferences directly.
 - Students and early-career members can pay for **1 or 3 years**; 3 years covers a
@@ -55,7 +55,7 @@ registered.*
 
 ## Benefits of membership
 
-*Draft — to be discussed with the members before membership opens.*
+*Draft, to be discussed with the members before membership opens.*
 
 Membership is, above all, a way to belong to and support the community. Being a
 member is intended to offer the following.
@@ -69,14 +69,14 @@ member is intended to offer the following.
   members at PhD workshops and training courses held alongside PED and TGF, such
   as the [PED25 PhD workshop](https://www.ped25.cz/phd-workshop).
 - **Discounts on future conferences.** We aim to secure a member discount on
-  **PED/TGF registration** — **none at PED27** (its budget is already fixed), but a
-  discount of **up to ~5% from TGF28 onward**, agreed with each conference's
-  organizers and announced per event.
+  PED/TGF registration. There will be none at PED27 (its budget is already fixed),
+  but up to ~5% from TGF28 onward, agreed with each conference's organizers and
+  announced per event.
 - **A voice in the community.** Members vote in the General Assembly, can nominate
   and be elected to the Steering Committee, and get priority for roles such as
   reviewing and programme committees.
-- **Online seminars.** A regular seminar series where members — especially PhD
-  students — present their work to the community.
+- **Online seminars.** A regular seminar series where members, especially PhD
+  students, present their work to the community.
 - **Jobs and calls.** Members can share PhD, postdoc, and industry positions,
   datasets, and calls through the association's channels.
 - **A wider network.** Membership connects you with researchers and practitioners
@@ -97,15 +97,15 @@ member is intended to offer the following.
 - **Travel grants** for PhD members, especially from lower-income countries.
 - **Support for colleagues in need.** In urgent situations, the association may
   help members who cannot afford conference or membership fees. This is
-  discretionary and exceptional — the board may reduce or waive fees on justified
-  request (Statutes §4a) — not a guaranteed entitlement.
+  discretionary and exceptional, not a guaranteed entitlement: the board may reduce
+  or waive fees on justified request (Statutes §4a).
 - **A closer link with the community's journal**, the open-access *Collective
   Dynamics*, e.g. through member reviewers and editors.
 
 ## How it will work
 
-Membership is **not** a conference fee — it is a way to support the community, with
-the benefits above as secondary.
+Membership is a way to support the community, not a conference fee. The benefits
+above are secondary.
 
 Once membership opens, you will be able to sign up and pay online by card, choosing
 a 1-, 2-, or 5-year term (students and early-career: 1 or 3 years). Fees are
@@ -118,5 +118,5 @@ your name and affiliation, and we'll get in touch.
 ## Questions?
 
 See the [FAQ]({{< relref "faq" >}}) for details on voting rights, the Steering
-Committee, and how the association is run — or email
+Committee, and how the association is run, or email
 **{{< email "info@collectivedynamics.org" >}}**.
