@@ -53,7 +53,8 @@ schedule — **pending approval by the General Assembly** — is:
 | Regular | €50 | €90 | — | €200 |
 | Student & early-career | €10 | — | €30 | — |
 
-- Membership runs **from the day you join**.
+- Membership runs by **calendar year**; joining from 1 July costs half the
+  1-year fee for the rest of that year.
 - Regular members paying **2 or 5 years upfront get a discount** (the 5-year rate is
   four years' fee); students and early-career members choose 1 or 3 years.
 - Members may receive a discount on PED/TGF registration — **none at PED27**, and

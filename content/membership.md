@@ -46,7 +46,9 @@ registered.*
 | **Student & early-career** | €10 | — | €30 | — |
 
 - All members are **full voting members**.
-- Your membership runs **from the day you join**, not the calendar year.
+- Membership runs by **calendar year** (1 January to 31 December). If you join
+  between 1 July and 31 December, you pay **half the 1-year fee** for the rest of
+  that year, then renew in January.
 - Regular members paying **2 or 5 years upfront get a discount**: the 5-year rate
   is four years' fee, with one year free. Paying upfront also helps build the
   reserves that let IACD support the conferences directly.
