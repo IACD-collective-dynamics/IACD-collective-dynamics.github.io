@@ -40,20 +40,18 @@ Any individual who supports the association's aims (Statutes §4). Membership is
 *Draft structure, to be confirmed by the General Assembly once the association is
 registered.*
 
-| Category | 1 year | 2 years | 3 years | 5 years |
-|----------|--------|---------|---------|---------|
-| **Regular** | €50 | €90 | — | €200 |
-| **Student & early-career** | €10 | — | €30 | — |
+| Category | 1 year | 2 years | 3 years |
+|----------|--------|---------|---------|
+| **Regular** | €50 | €90 | €130 |
+| **Student & early-career** | €10 | €15 | €20 |
 
 - All members are **full voting members**.
 - Membership runs by **calendar year** (1 January to 31 December). If you join
   between 1 July and 31 December, you pay **half the 1-year fee** for the rest of
   that year, then renew in January.
-- Regular members paying **2 or 5 years upfront get a discount**: the 5-year rate
-  is four years' fee, with one year free. Paying upfront also helps build the
-  reserves that let IACD support the conferences directly.
-- Students and early-career members can pay for **1 or 3 years**; 3 years covers a
-  typical PhD.
+- Paying **2 or 3 years upfront gets a discount**. Paying upfront also helps build
+  the reserves that let IACD support the conferences directly.
+- For students and early-career members, 3 years covers a typical PhD.
 
 ## Benefits of membership
 
@@ -110,7 +108,7 @@ Membership is a way to support the community, not a conference fee. The benefits
 above are secondary.
 
 Once membership opens, you will be able to sign up and pay online by card, choosing
-a 1-, 2-, or 5-year term (students and early-career: 1 or 3 years). Fees are
+a 1-, 2-, or 3-year term. Fees are
 collected once the association is registered and its bank account is set up.
 
 **For now**, if you'd like to join when membership opens, register your interest by

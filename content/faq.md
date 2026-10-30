@@ -48,15 +48,14 @@ This is a formality for record-keeping, not a second admission.
 Fees are set by the **General Assembly** in a fee schedule (§4a). The proposed
 schedule — **pending approval by the General Assembly** — is:
 
-| Category | 1 year | 2 years | 3 years | 5 years |
-|----------|--------|---------|---------|---------|
-| Regular | €50 | €90 | — | €200 |
-| Student & early-career | €10 | — | €30 | — |
+| Category | 1 year | 2 years | 3 years |
+|----------|--------|---------|---------|
+| Regular | €50 | €90 | €130 |
+| Student & early-career | €10 | €15 | €20 |
 
 - Membership runs by **calendar year**; joining from 1 July costs half the
   1-year fee for the rest of that year.
-- Regular members paying **2 or 5 years upfront get a discount** (the 5-year rate is
-  four years' fee); students and early-career members choose 1 or 3 years.
+- Paying **2 or 3 years upfront gets a discount**.
 - Members may receive a discount on PED/TGF registration — **none at PED27**, and
   a discount of **up to ~5% from TGF28 onward**, agreed per conference.
 
