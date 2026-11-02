@@ -4,14 +4,10 @@ weight: 3
 ---
 
 {{< callout type="info" >}}
-**Membership is not open yet.** The association is now registered as an e.V.
-(Amtsgericht Düren, VR 3143), and the General Assembly adopted the fee schedule on
-2 November 2026. Membership will open once online payment is set up. To be notified
-when membership opens, write to
-{{< email "board@collectivedynamics.org" >}}.
+**Membership is open.** See [How to join](#how-to-join) below.
 {{< /callout >}}
 
-Membership will be open to anyone who supports the aims of the association:
+Membership is open to anyone who supports the aims of the association:
 researchers, practitioners, and students across all regions and disciplines.
 International participation is intended by design.
 
@@ -48,7 +44,7 @@ Any individual who supports the association's aims (Statutes §4). Membership is
 
 ## Benefits of membership
 
-*Draft, to be discussed with the members before membership opens.*
+*Draft, to be discussed with the members.*
 
 Membership is, above all, a way to belong to and support the community. Being a
 member is intended to offer the following.
@@ -95,20 +91,18 @@ member is intended to offer the following.
 - **A closer link with the community's journal**, the open-access *Collective
   Dynamics*, e.g. through member reviewers and editors.
 
-## How it will work
+## How to join
 
 Membership is a way to support the community, not a conference fee. The benefits
 above are secondary.
 
-Once membership opens, you will be able to sign up and pay online by card, choosing
-a 1-, 2-, or 3-year term. Fees will be collected once online payment is set up.
-
-**For now**, if you'd like to join when membership opens, register your interest by
-writing to **{{< email "board@collectivedynamics.org" >}}** with
-your name and affiliation, and we'll get in touch.
+To join, write to **{{< email "board@collectivedynamics.org" >}}** with your name,
+affiliation, membership category (regular, or student and early-career) and term
+(1, 2 or 3 years). Once the board has accepted your application, we will send you a
+link to pay the fee online by card.
 
 ## Questions?
 
 See the [FAQ]({{< relref "faq" >}}) for details on voting rights, the Steering
 Committee, and how the association is run, or email
-**{{< email "info@collectivedynamics.org" >}}**.
+**{{< email "board@collectivedynamics.org" >}}**.

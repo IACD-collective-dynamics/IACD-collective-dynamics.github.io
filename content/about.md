@@ -46,8 +46,8 @@ See [Board & Auditors]({{< relref "board" >}}) and the [FAQ]({{< relref "faq" >}
 ## Documents
 
 The statutes are maintained in German and English; the German version is
-authoritative (§13). Governing documents — statutes, admission guidelines, and
-code of conduct — will be published here.
+authoritative (§13). The statutes, admission guidelines and code of conduct are on
+the [Documents]({{< relref "documents" >}}) page.
 
 ## Contact
 
