@@ -45,8 +45,8 @@ pay dues once a fee schedule is set), so the board has a clean member register.
 This is a formality for record-keeping, not a second admission.
 
 ## Are there membership fees?
-Fees are set by the **General Assembly** in a fee schedule (§4a). The proposed
-schedule — **pending approval by the General Assembly** — is:
+Fees are set by the **General Assembly** in a fee schedule (§4a). The schedule
+adopted on **2 November 2026** is:
 
 | Category | 1 year | 2 years | 3 years |
 |----------|--------|---------|---------|
@@ -59,8 +59,7 @@ schedule — **pending approval by the General Assembly** — is:
 - Members may receive a discount on PED/TGF registration — **none at PED27**, and
   a discount of **up to ~5% from TGF28 onward**, agreed per conference.
 
-The board may also reduce or waive fees on justified request (§4a). Final amounts
-will be confirmed by the General Assembly.
+The board may also reduce or waive fees on justified request (§4a).
 
 ## What is expected of me as a member?
 Support the association's aims, follow the Code of Conduct, and pay dues once set.

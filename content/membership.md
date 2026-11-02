@@ -3,17 +3,11 @@ title: Membership
 weight: 3
 ---
 
-{{< callout type="warning" >}}
-**DRAFT — for board discussion only.** This page sketches a *proposed* membership and
-funding model. It has **not** been decided by the board or adopted by the General
-Assembly, and the figures (fees, discount %) may change. Do not treat it as final.
-{{< /callout >}}
-
 {{< callout type="info" >}}
 **Membership is not open yet.** The association is now registered as an e.V.
-(Amtsgericht Düren, VR 3143). Membership will open once the first General Assembly
-has adopted the fee schedule. The details below are
-the **planned** structure. To be notified when membership opens, write to
+(Amtsgericht Düren, VR 3143), and the General Assembly adopted the fee schedule on
+2 November 2026. Membership will open once online payment is set up. To be notified
+when membership opens, write to
 {{< email "board@collectivedynamics.org" >}}.
 {{< /callout >}}
 
@@ -37,8 +31,7 @@ Any individual who supports the association's aims (Statutes §4). Membership is
 
 ## Fees
 
-*Draft structure, to be confirmed by the General Assembly once the association is
-registered.*
+*Adopted by the General Assembly on 2 November 2026.*
 
 | Category | 1 year | 2 years | 3 years |
 |----------|--------|---------|---------|
@@ -108,8 +101,7 @@ Membership is a way to support the community, not a conference fee. The benefits
 above are secondary.
 
 Once membership opens, you will be able to sign up and pay online by card, choosing
-a 1-, 2-, or 3-year term. Fees are
-collected once the association is registered and its bank account is set up.
+a 1-, 2-, or 3-year term. Fees will be collected once online payment is set up.
 
 **For now**, if you'd like to join when membership opens, register your interest by
 writing to **{{< email "board@collectivedynamics.org" >}}** with
