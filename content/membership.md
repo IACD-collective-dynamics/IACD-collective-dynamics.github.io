@@ -44,8 +44,6 @@ Any individual who supports the association's aims (Statutes §4). Membership is
 
 ## Benefits of membership
 
-*Draft, to be discussed with the members.*
-
 Membership is, above all, a way to belong to and support the community. Being a
 member is intended to offer the following.
 
