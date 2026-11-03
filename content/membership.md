@@ -96,8 +96,13 @@ above are secondary.
 
 To join, write to **{{< email "board@collectivedynamics.org" >}}** with your name,
 affiliation, membership category (regular, or student and early-career) and term
-(1, 2 or 3 years). Once the board has accepted your application, we will send you a
-link to pay the fee online by card.
+(1, 2 or 3 years). Once the board has accepted your application, we will send you
+the payment details:
+
+- **From Europe (SEPA area):** please pay by **bank transfer**, which is free of
+  charge for you and for the association.
+- **From outside Europe:** pay online with a secure payment link (Stripe), which
+  avoids high international transfer fees.
 
 ## Questions?
 
