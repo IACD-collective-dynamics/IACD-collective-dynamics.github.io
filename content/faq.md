@@ -53,8 +53,10 @@ adopted on **2 November 2026** is:
 | Regular | €50 | €90 | €130 |
 | Student & early-career | €10 | €15 | €20 |
 
-- Membership runs by **calendar year**; joining from 1 July costs half the
-  1-year fee for the rest of that year.
+- Membership runs by **calendar year**. The first membership year is **2027**:
+  you can join and pay at any time, and membership starts on **1 January 2027**.
+- From 2027, joining from 1 July costs half the 1-year fee for the rest of that
+  year.
 - Paying **2 or 3 years upfront gets a discount**.
 - Members may receive a discount on PED/TGF registration — **none at PED27**, and
   a discount of **up to ~5% from TGF28 onward**, agreed per conference.

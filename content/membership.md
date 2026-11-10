@@ -35,9 +35,11 @@ Any individual who supports the association's aims (Statutes §4). Membership is
 | **Student & early-career** | €10 | €15 | €20 |
 
 - All members are **full voting members**.
-- Membership runs by **calendar year** (1 January to 31 December). If you join
-  between 1 July and 31 December, you pay **half the 1-year fee** for the rest of
-  that year, then renew in January.
+- Membership runs by **calendar year** (1 January to 31 December). The first
+  membership year is **2027**: you can join and pay at any time, and your
+  membership starts on **1 January 2027**.
+- From 2027, if you join between 1 July and 31 December, you pay **half the
+  1-year fee** for the rest of that year, then renew in January.
 - Paying **2 or 3 years upfront gets a discount**. Paying upfront also helps build
   the reserves that let IACD support the conferences directly.
 - For students and early-career members, 3 years covers a typical PhD.
