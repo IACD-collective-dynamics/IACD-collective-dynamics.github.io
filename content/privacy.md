@@ -11,7 +11,7 @@ sitemap:
 International Association for Collective Dynamics e.V.\
 c/o Prof. Dr. Andreas Schadschneider, Institute for Theoretical Physics,\
 University of Cologne, Zülpicher Str. 77, 50937 Köln, Germany\
-Email: {{< email "info@collectivedynamics.org" >}}
+Email: {{< email "board@collectivedynamics.org" >}}
 
 The association is represented by its Executive Board (see [Impressum]({{< relref "impressum" >}})).
 We have not appointed a data protection officer, as we are not required to do so.

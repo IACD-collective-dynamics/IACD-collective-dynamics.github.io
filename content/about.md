@@ -33,7 +33,7 @@ The statutes are available in German and English. The German version is authorit
 
 ## Contact
 
-{{< email "info@collectivedynamics.org" >}}
+{{< email "board@collectivedynamics.org" >}}
 
 ## Credits
 

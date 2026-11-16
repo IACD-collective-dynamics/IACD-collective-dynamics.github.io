@@ -26,7 +26,7 @@ The Executive Board pursuant to § 26 BGB, represented jointly by two board memb
 
 ## Contact
 
-Email: {{< email "info@collectivedynamics.org" >}}
+Email: {{< email "board@collectivedynamics.org" >}}
 
 ## Register entry
 
