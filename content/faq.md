@@ -3,7 +3,7 @@ title: FAQ
 weight: 3
 ---
 
-*Based on the statutes and Admission Guidelines. Some operational details (membership fees, online sign-up) will be confirmed by the Executive Board and the General Assembly.*
+*Based on the statutes and Admission Guidelines.*
 
 ## Who can become a member?
 Any individual who supports the aims of the association (Statutes §4(1)).
@@ -12,8 +12,9 @@ welcome — international participation is intended by design.
 
 ## How do I join?
 Membership applications are made in writing (including electronically) to the
-Executive Board, which decides on admission (§4(3)). Once the website is running,
-there will be a short online sign-up form.
+Executive Board, which decides on admission (§4(3)). To apply, email
+{{< email "board@collectivedynamics.org" >}} with your name, affiliation, membership
+category and term; see [How to join]({{< relref "membership#how-to-join" >}}).
 
 ## What types of membership are there?
 Membership is for **individuals** (institutional or company memberships are not
