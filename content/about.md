@@ -21,6 +21,17 @@ continuity and quality of the conferences it grew from, in particular:
 - **PED** — Pedestrian and Evacuation Dynamics
 - **TGF** — Traffic and Granular Flow
 
+## Mission: open by design
+
+Our field was never built by one kind of person, or one country. Physicists,
+engineers, mathematicians, computer scientists and psychologists, working on the
+same crowds. The conferences worked because nobody owned them and everyone was
+welcome.
+
+The IACD exists to keep that community open and together — across countries,
+disciplines and career stages — and to safeguard the continuity and quality of the
+science it grew from. A field that closes in on itself stops surprising itself.
+
 ## Purpose
 
 In accordance with its statutes (§2), the IACD promotes science and research and
