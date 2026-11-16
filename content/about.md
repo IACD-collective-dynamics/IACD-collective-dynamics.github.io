@@ -5,60 +5,31 @@ aliases:
   - /founding-members/
 ---
 
-## About the IACD
+The **International Association for Collective Dynamics (IACD)** is a non-profit scientific association registered in Germany. Its seat is in Düren. It is entered in the Vereinsregister of the Amtsgericht Düren under **VR 3143** (29 July 2026).
 
-The **International Association for Collective Dynamics (IACD)** is a non-profit
-scientific association. It was founded on 18 June 2026 during the steering committee
-meeting at the TGF26 conference in Bristol. It is a German registered association
-(*eingetragener Verein*, e.V.) with its seat in Düren, entered in the Vereinsregister
-of the Amtsgericht Düren under **VR 3143** on 29 July 2026.
-
-The association gives the international community studying collective dynamics —
-pedestrian and evacuation dynamics, crowd science, traffic and granular flow, and
-related fields — a lasting organisational and legal home, and supports the
-continuity and quality of the conferences it grew from, in particular:
-
-- **PED** — Pedestrian and Evacuation Dynamics
-- **TGF** — Traffic and Granular Flow
-
-## Mission: open by design
-
-Our field was never built by one kind of person, or one country. Physicists,
-engineers, mathematicians, computer scientists and psychologists, working on the
-same crowds. The conferences worked because nobody owned them and everyone was
-welcome.
-
-The IACD exists to keep that community open and together — across countries,
-disciplines and career stages — and to safeguard the continuity and quality of the
-science it grew from. A field that closes in on itself stops surprising itself.
+The IACD provides an organisational framework for researchers, practitioners and students working in collective dynamics. This includes pedestrian and evacuation dynamics, crowd science, traffic and granular flow, and related fields. The association supports the continuity of the conferences **PED** (Pedestrian and Evacuation Dynamics) and **TGF** (Traffic and Granular Flow), and aims to strengthen the wider research community.
 
 ## Purpose
 
-In accordance with its statutes (§2), the IACD promotes science and research and
-civic and professional education, including support for students and early-career
-researchers, in the field of collective dynamics. It does so in particular through
-organising and supporting scientific conferences, promoting international
-cooperation and good scientific practice, publishing scientific results, and
-backing young researchers.
+Research in collective dynamics spans disciplines and countries. The IACD provides a place for people working in these fields to meet, exchange ideas and support shared activities.
+
+Under §2 of its statutes, the IACD promotes science and research, as well as civic and professional education, in the field of collective dynamics. Its activities include organising and supporting scientific conferences, promoting international cooperation and good scientific practice, publishing scientific results, and supporting young researchers.
 
 The association acts selflessly and pursues exclusively non-profit purposes.
 
 ## Founding members
 
-The IACD was founded on 18 June 2026 during the steering committee meeting at TGF26
-in Bristol, by 24 founding members.
+The IACD was founded by 24 members on 18 June 2026, during the steering committee meeting at TGF26 in Bristol.
 
 ## Governance
 
-The IACD has three bodies: the **General Assembly** (all members), the
-**Executive Board**, and the **Steering Committee** (scientific advisory body).
+The IACD has three bodies: the **General Assembly** (all members), the **Executive Board**, and the **Steering Committee**, which serves as a scientific advisory body.
+
 See [Board & Auditors]({{< relref "board" >}}) and the [FAQ]({{< relref "faq" >}}) for details.
 
 ## Documents
 
-The statutes are maintained in German and English; the German version is
-authoritative (§13). The statutes, admission guidelines and code of conduct are on
-the [Documents]({{< relref "documents" >}}) page.
+The statutes are available in German and English. The German version is authoritative (§13). The statutes, admission guidelines and code of conduct are on the [Documents]({{< relref "documents" >}}) page.
 
 ## Contact
 
