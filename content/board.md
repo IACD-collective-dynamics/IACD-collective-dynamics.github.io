@@ -10,9 +10,9 @@ represents it jointly (two board members together).
 
 | Role | Name |
 |------|------|
-| Chair | Andreas Schadschneider |
-| Deputy Chair | Jun Zhang |
-| Treasurer | Mohcine Chraibi |
+| Chair | Prof. Dr. Andreas Schadschneider |
+| Deputy Chair | Prof. Dr. Jun Zhang |
+| Treasurer | Dr. habil. Mohcine Chraibi |
 
 *Elected at the founding meeting for a two-year term.*
 
@@ -23,8 +23,8 @@ accounts and the annual financial report and report to the General Assembly.
 
 | # | Name |
 |---|------|
-| 1 | Iñaki Echeverría Huarte |
-| 2 | Angelika Kneidl |
+| 1 | Dr. Iñaki Echeverría Huarte |
+| 2 | Prof. Dr. Angelika Kneidl |
 
 *Elected for a two-year term.*
 
