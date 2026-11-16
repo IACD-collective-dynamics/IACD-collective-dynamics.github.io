@@ -123,3 +123,9 @@ main h1.hx-text-center { text-align: left !important; }
   .iacd-hero { padding: 52px 0 40px; }
 }
 @media (prefers-reduced-motion: reduce) { .iacd-btn { transition: none; } }
+
+/* ---- Footer: LinkedIn link ---- */
+.iacd-li { display: inline-flex; align-items: center; gap: 4px; text-decoration: none; white-space: nowrap; }
+.iacd-li-icon { display: inline-block; vertical-align: -2px; }
+.iacd-li:hover { color: #0a66c2; }
+.dark .iacd-li:hover { color: #70b5f9; }
