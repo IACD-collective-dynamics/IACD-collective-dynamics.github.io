@@ -19,7 +19,7 @@ The association acts selflessly and pursues exclusively non-profit purposes.
 
 ## Founding members
 
-The IACD was founded by 24 members on 18 June 2026, during the steering committee meeting at TGF26 in Bristol.
+The IACD was founded by 24 members on 18 June 2026, during the steering committee meeting at [TGF26 in Bristol]({{< relref "/news/tgf26" >}}).
 
 ## Governance
 
