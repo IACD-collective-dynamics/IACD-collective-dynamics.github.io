@@ -34,7 +34,7 @@ Any individual who supports the association's aims (Statutes §4). Membership is
 | **Regular** | €50 | €90 | €130 |
 | **Student & early-career** | €10 | €15 | €20 |
 
-- All members are **full voting members**.
+- Both fee categories are **voting memberships**; the reduced fee does not affect voting rights.
 - Membership runs by **calendar year** (1 January to 31 December). The first
   membership year is **2027**: you can join and pay at any time, and your
   membership starts on **1 January 2027**.
