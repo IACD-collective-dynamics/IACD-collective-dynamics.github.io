@@ -99,7 +99,8 @@ above are secondary.
 To join, write to **{{< email "board@collectivedynamics.org" >}}** with your name,
 affiliation, membership category (regular, or student and early-career) and term
 (1, 2 or 3 years). Once the board has accepted your application, we will send you
-the payment details:
+the payment details. [Apply by email](mailto:board@collectivedynamics.org?subject=IACD%20membership%20application&body=Name%3A%0AEmail%3A%0AAffiliation%20(university%2C%20department)%3A%0ACountry%3A%0AResearch%20field%3A%0ACategory%20(Regular%20or%20Student%20and%20early-career)%3A%0ATerm%20(1%2C%202%20or%203%20years)%3A%0A)
+opens a message with these fields ready to fill in.
 
 - **From Europe (SEPA area):** please pay by **bank transfer**, which is free of
   charge for you and for the association.
